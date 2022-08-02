@@ -51,7 +51,7 @@
 #include "gdm-settings-keys.h"
 
 #define INITIAL_SETUP_USERNAME "gnome-initial-setup"
-#define GDM_SESSION_MODE "gdm-tos"
+#define GDM_SESSION_MODE "gdm"
 #define INITIAL_SETUP_SESSION_MODE "initial-setup"
 #define GNOME_SESSION_SESSIONS_PATH DATADIR "/gnome-session/sessions"
 
